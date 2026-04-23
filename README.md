@@ -8,4 +8,6 @@
 Сейчас изучаю git и github.
 
 Прекрасное изображение компании:
+
+
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
